@@ -16,5 +16,5 @@ retrieve the payload, and stores the credentials in a `passwords.txt` file.
 <img src="assets/bob.png" >
 
 ## Try it!
-You can try it via this [website link](https://jeanmadao.github.io/moodle_phishing/), and 
-this [webhooks page](https://webhook.site/#!/view/9bd42325-3fc4-4643-aff5-d4779f2a411e)
+You can try it via this [website link](https://jeanmadao.github.io/moodle_phishing/).
+Don't put your actual credentials (-_-).
