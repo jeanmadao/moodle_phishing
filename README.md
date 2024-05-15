@@ -5,6 +5,10 @@ Phishing website (for educational purposes) imitating the moodle login page of
 the request get sent to a webhook which will run a bash script. This bash script simply
 retrieve the payload, and stores the credentials in a `passwords.txt` file.
 
+## Requirements
+- [webhook](https://github.com/adnanh/webhook)
+- Becode classmates
+
 ## Screenshots
 <img src="assets/login_page.png" height="500" >
 <img src="assets/stored_passwords.png" >
