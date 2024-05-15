@@ -2,7 +2,7 @@
   {
     "id": "moodle-login",
     "execute-command": "./store_passwords.sh",
-    "response-message": '<iframe width="560" height="315" src="https://www.youtube.com/embed/vTqkA_C3XUQ?si=T1rxE35C-Ws0jT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+    "response-message": '<iframe width="560" height="315" src="https://www.youtube.com/embed/ubBPAgP2CpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
     "pass-arguments-to-command":
     [
       {
