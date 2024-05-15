@@ -6,9 +6,15 @@ the request get sent to a webhook which will run a bash script. This bash script
 retrieve the payload, and stores the credentials in a `passwords.txt` file.
 
 ## Requirements
-- [webhook](https://github.com/adnanh/webhook)
+- A webhook (for example https://github.com/adnanh/webhook)
 - Becode classmates
 
 ## Screenshots
 <img src="assets/login_page.png" height="500" >
 <img src="assets/stored_passwords.png" >
+<img src="assets/alice.png" >
+<img src="assets/bob.png" >
+
+## Try it!
+You can try it via this [website link](https://jeanmadao.github.io/moodle_phishing/), and 
+this [webhooks page](https://webhook.site/#!/view/9bd42325-3fc4-4643-aff5-d4779f2a411e)
